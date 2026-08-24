@@ -1,0 +1,9 @@
+  * * File * *	* * Description * *
+ autoplay.html	Creates a video embed every 3 seconds
+      mp3.html	Attempts to play mp3 every 100ms and redirect opener
+ obstruct.html	Large obstructing table
+    popup.html	Attempts to open mp3.html popup every 100ms
+srcdocmp3.html	Attempts to play mp3 every 100ms ONLY
+ stubborn.html	Requests password endlessly
+ 
+All files can and should be "srcdoc"-ed if the host allows for srcdoc iframes.
