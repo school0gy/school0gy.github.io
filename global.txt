@@ -6,4 +6,4 @@
 srcdocmp3.html	Attempts to play mp3 every 100ms ONLY
  stubborn.html	Requests password endlessly
  
-All files can and should be "srcdoc"-ed if the host allows for srcdoc iframes.
+All files except "obstruct.html" can and should be "srcdoc"-ed if the host allows for srcdoc iframes.
