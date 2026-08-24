@@ -6,4 +6,6 @@ var audio = document.getElementById("audio");
 setInterval(function() {
   audio.play();
 }, 100);
+
+onbeforeunload = function() {return true;};
 </script>
